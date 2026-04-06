@@ -5,5 +5,5 @@ kursam "Machine Learning un prognozēšanas modeļi".
 - `week1/` — 1. nedēļas darbs (ievads ML)
 - `week2/` — 2. nedēļas darbs (Datu sagatavošana)
 - `week3/` — 3. nedēļas darbs (Klasifikācija)
-- `week4/` — 3. nedēļas darbs (Regresija)
-- `week5/` — 3. nedēļas darbs (Klasterizācija + Modeļu validācija)
+- `week4/` — 4. nedēļas darbs (Regresija)
+- `week5/` — 5. nedēļas darbs (Klasterizācija + Modeļu validācija)
