@@ -7,3 +7,4 @@ kursam "Machine Learning un prognozēšanas modeļi".
 - `week3/` — 3. nedēļas darbs (Klasifikācija)
 - `week4/` — 4. nedēļas darbs (Regresija)
 - `week5/` — 5. nedēļas darbs (Klasterizācija + Modeļu validācija)
+- `week5/` — Gala projekts
